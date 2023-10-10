@@ -1,0 +1,14 @@
+C:\Users\Adil\Desktop\ArrayHomeWork\bin\Debug\net6.0\ArrayHomeWork.exe
+C:\Users\Adil\Desktop\ArrayHomeWork\bin\Debug\net6.0\ArrayHomeWork.deps.json
+C:\Users\Adil\Desktop\ArrayHomeWork\bin\Debug\net6.0\ArrayHomeWork.runtimeconfig.json
+C:\Users\Adil\Desktop\ArrayHomeWork\bin\Debug\net6.0\ArrayHomeWork.dll
+C:\Users\Adil\Desktop\ArrayHomeWork\bin\Debug\net6.0\ArrayHomeWork.pdb
+C:\Users\Adil\Desktop\ArrayHomeWork\obj\Debug\net6.0\ArrayHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adil\Desktop\ArrayHomeWork\obj\Debug\net6.0\ArrayHomeWork.AssemblyInfoInputs.cache
+C:\Users\Adil\Desktop\ArrayHomeWork\obj\Debug\net6.0\ArrayHomeWork.AssemblyInfo.cs
+C:\Users\Adil\Desktop\ArrayHomeWork\obj\Debug\net6.0\ArrayHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Adil\Desktop\ArrayHomeWork\obj\Debug\net6.0\ArrayHomeWork.dll
+C:\Users\Adil\Desktop\ArrayHomeWork\obj\Debug\net6.0\refint\ArrayHomeWork.dll
+C:\Users\Adil\Desktop\ArrayHomeWork\obj\Debug\net6.0\ArrayHomeWork.pdb
+C:\Users\Adil\Desktop\ArrayHomeWork\obj\Debug\net6.0\ArrayHomeWork.genruntimeconfig.cache
+C:\Users\Adil\Desktop\ArrayHomeWork\obj\Debug\net6.0\ref\ArrayHomeWork.dll
